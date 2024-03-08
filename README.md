@@ -14,3 +14,7 @@ Contiene la configuración para un modulo LCD de 16x2
 Contiene la configuracion del puerto C del PIC y mediante los pesos y sesgo obtenidos con el programa de python 
 se conprueba si un número es primo, sí lo es el diplay de 7 segmentos se iluminara mostrando el número, el modulo
 lcd mustra el mensaje muestra un mensaje si es primo.
+
+## Extras
+Para hacer los archivos *.c* y *.h* y compilar se utilizó MPLAB y se puede utilizar algun software de similación de
+circuitos para ver el funcionamiento como Proteus
